@@ -1,6 +1,6 @@
 NeighborhoodScout’s Most Dangerous Cities – 2020
 
-
+![Branching](shutterstock_633368861.jpg)
 
 Top 100 Most Dangerous Cities in the U.S.
 Our research reveals the 100 most dangerous cities in America with 25,000 or more people, based on the number of violent crimes per 1,000 residents. Violent crimes include murder, rape, armed robbery, and aggravated assault. The data used for this research are the number of violent crimes reported to have occurred in each city, and the population of each city.
